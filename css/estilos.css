@@ -58,14 +58,14 @@ img {
 
 #b{
     border: 5px dashed #000;
-    background-color: rgb(160, 160, 204);
+    background-color: #c9c9e8;
 }
 
 #c{
     border: 5px dashed #000;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
-    background-color: rgb(160, 160, 204);
+    background-color: #c9c9e8;
 }
 #text p:first-child {
   border-bottom: 5px dashed #000;
