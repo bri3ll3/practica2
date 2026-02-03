@@ -39,12 +39,6 @@ img {
 }
 
 
-p {
-  background-image: url("../images/fondoParrafo.png");
-  background-repeat: repeat;
-}
-
-
 #text p {
   line-height: 1.5;
   border: 5px dashed #000;
@@ -59,16 +53,20 @@ p {
     border: 5px dashed #000;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
+    background-image: url("../images/fondoParrafo.png");
+    background-repeat: repeat;
 }
 
 #b{
     border: 5px dashed #000;
+    background-color: rgb(160, 160, 204);
 }
 
 #c{
     border: 5px dashed #000;
-      border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: rgb(160, 160, 204);
 }
 #text p:first-child {
   border-bottom: 5px dashed #000;
